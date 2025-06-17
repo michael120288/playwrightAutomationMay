@@ -1,0 +1,103 @@
+{
+  "cookies": [
+    {
+      "name": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6Ik1pY2hhZWxQYXN2IiwicGFzc3dvcmQiOiJtIWNoYWVsMTJTSCIsImlhdCI6MTc0ODkyMDMxMH0.o2ciz8B_a7O8Y286ohVrZh85W1u4R-rIWGMvWv-iU9U",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "expires",
+      "value": "2025-06-10T03%3A11%3A50.323Z",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userID",
+      "value": "5291e54b-15e9-4ff8-a0e1-d0e1628aa778",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userName",
+      "value": "MichaelPasv",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demoqa.com",
+      "localStorage": [
+        {
+          "name": "_GESPSK-pubcid.org",
+          "value": "[\"pubcid.org\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-crwdcntrl.net",
+          "value": "[\"crwdcntrl.net\",null,1748920312329,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "totalCallsTimeout",
+          "value": "0"
+        },
+        {
+          "name": "_GESPSK-uidapi.com",
+          "value": "[\"uidapi.com\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-euid.eu",
+          "value": "[\"euid.eu\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "lastSuccessfullAd",
+          "value": "0"
+        },
+        {
+          "name": "totalCalls",
+          "value": "0"
+        },
+        {
+          "name": "_GESPSK-openx",
+          "value": "[\"openx\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-id5-sync.com",
+          "value": "[\"id5-sync.com\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-esp.criteo.com",
+          "value": "[\"esp.criteo.com\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_GESPSK-33across.com",
+          "value": "[\"33across.com\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "__VASTUtil__",
+          "value": "__VASTUtil__"
+        },
+        {
+          "name": "_GESPSK-rtbhouse",
+          "value": "[\"rtbhouse\",null,1748920312328,null,null,null,null,null,null,[100]]"
+        }
+      ]
+    }
+  ]
+}

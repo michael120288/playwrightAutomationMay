@@ -1,0 +1,26 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "PSTGCource",
+      "database": "postgres",
+      "username": "michael120288"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "SQLCOURCE",
+      "username": "root",
+      "database": "mysql"
+    }
+  ]
+}
